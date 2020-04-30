@@ -15,6 +15,6 @@ module.exports = {
             { text: '首页', link: '/' },
             { text: '周报', link: '/weekly-report/' }
         ],
-        lastUpdated: '最近更新时间: '
+        lastUpdated: '最近更新时间'
     }
 }
