@@ -14,6 +14,7 @@ module.exports = {
         nav: [
             { text: '首页', link: '/' },
             { text: '周报', link: '/weekly-report/' }
-        ]
+        ],
+        lastUpdated: '最近更新时间: '
     }
 }
